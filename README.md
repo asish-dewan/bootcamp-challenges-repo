@@ -4,19 +4,21 @@ This repository is where I will be storing weekly coding challenges for my bootc
 
 I will also be publishing any related mini projects.
 
-
-
 <br>
 
-## Challenge #1
+## Refactoring Challenge
+---
 
-For this challenge, we have to refactor an existing site to make it more accesible. 
+For this challenge, we have to refactor an existing site to make it more accesible and to improve the efficiency of the CSS.
 
 My deployed website: https://asish-dewan.github.io/bootcamp-challenges-repo/
+
+![Final Webpage look](./assets/Final%20webpage.png)
 
 <br>
 
 ### Challenge Requirements
+---
 ```markdown
 
 # User story
@@ -42,6 +44,5 @@ THEN I find a concise, descriptive title
 [Starter Code](https://github.com/coding-boot-camp/urban-octo-telegram)
 
 ```
-## Feedback
-
-Feel free to provide any suggestions or any feedback on my attempts at the challenges.
+---
+© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
