@@ -1,19 +1,40 @@
-## Welcome to GitHub Pages
+# Coding Bootcamp Challenges Repository
 
-You can use the [editor on GitHub](https://github.com/asish-dewan/bootcamp-challenges-repo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This repository is where I will be storing weekly coding challenges for my bootcamp.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I will also be publishing any related mini projects.
 
-### Markdown
+This source code is available to everyone under the standard MIT license.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br>
 
+## Weekly Challenge 1
+
+For this challenge, we have to refactor an existing site to make it more accesible. <br>
+
+
+### Challenge Requirements
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# User story
+
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+
+# Acceptance Criteria
+
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the icon and image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
 
 - Bulleted
 - List
@@ -35,3 +56,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### License
+
+© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
