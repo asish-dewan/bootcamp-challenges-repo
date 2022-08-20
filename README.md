@@ -4,14 +4,17 @@ This repository is where I will be storing weekly coding challenges for my bootc
 
 I will also be publishing any related mini projects.
 
-This source code is available to everyone under the standard MIT license.
+
 
 <br>
 
-## Weekly Challenge 1
+## Challenge #1
 
-For this challenge, we have to refactor an existing site to make it more accesible. <br>
+For this challenge, we have to refactor an existing site to make it more accesible. 
 
+My deployed website: https://asish-dewan.github.io/bootcamp-challenges-repo/
+
+<br>
 
 ### Challenge Requirements
 ```markdown
@@ -36,27 +39,9 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-- Bulleted
-- List
+[Starter Code](https://github.com/coding-boot-camp/urban-octo-telegram)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+## Feedback
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/asish-dewan/bootcamp-challenges-repo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-### License
-
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+Feel free to provide any suggestions or any feedback on my attempts at the challenges.
